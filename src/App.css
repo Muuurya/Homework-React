@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.head1 {
+  font-family: "Courier New", Courier, monospace;
+}
+.head2 {
+  font-family: "Courier New", Courier, monospace;
+}
+.btn1 {
+  padding: 5px 15px;
+  background-color: rgb(216, 44, 44);
+  color: white;
+  transition: 0.3s linear;
+  border: none;
+  border-radius: 5px;
+}
+.btn1:hover {
+  color: red;
+  background-color: white;
+  cursor: pointer;
+  border: 1px solid black;
+}
+.btn2 {
+  padding: 5px 15px;
+  background-color: rgb(216, 44, 44);
+  color: white;
+  transition: 0.3s linear;
+  border: none;
+  border-radius: 5px;
+}
+.btn2:hover {
+  color: red;
+  background-color: white;
+  cursor: pointer;
+  border: 1px solid balck;
+}
